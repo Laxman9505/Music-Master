@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/Music-Master/static/css/main.18f8702f.chunk.css",
-    "main.js": "/Music-Master/static/js/main.bb816800.chunk.js",
-    "main.js.map": "/Music-Master/static/js/main.bb816800.chunk.js.map",
+    "main.css": "/Music-Master/static/css/main.302f433c.chunk.css",
+    "main.js": "/Music-Master/static/js/main.b642fc30.chunk.js",
+    "main.js.map": "/Music-Master/static/js/main.b642fc30.chunk.js.map",
     "runtime-main.js": "/Music-Master/static/js/runtime-main.28cf4f51.js",
     "runtime-main.js.map": "/Music-Master/static/js/runtime-main.28cf4f51.js.map",
     "static/js/2.e6996575.chunk.js": "/Music-Master/static/js/2.e6996575.chunk.js",
     "static/js/2.e6996575.chunk.js.map": "/Music-Master/static/js/2.e6996575.chunk.js.map",
     "index.html": "/Music-Master/index.html",
-    "static/css/main.18f8702f.chunk.css.map": "/Music-Master/static/css/main.18f8702f.chunk.css.map",
+    "static/css/main.302f433c.chunk.css.map": "/Music-Master/static/css/main.302f433c.chunk.css.map",
     "static/js/2.e6996575.chunk.js.LICENSE.txt": "/Music-Master/static/js/2.e6996575.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.28cf4f51.js",
     "static/js/2.e6996575.chunk.js",
-    "static/css/main.18f8702f.chunk.css",
-    "static/js/main.bb816800.chunk.js"
+    "static/css/main.302f433c.chunk.css",
+    "static/js/main.b642fc30.chunk.js"
   ]
 }
